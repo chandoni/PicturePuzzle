@@ -1,9 +1,3 @@
-﻿/*
- * CSCI473  Assignment 6
- * 
- * Charles Andoni, Aleena Ayaz
- * 
- */
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
